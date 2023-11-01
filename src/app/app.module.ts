@@ -42,6 +42,7 @@ import { MatListModule } from '@angular/material/list';
     MatSelectModule,
     MatRadioModule,
     MatCardModule,
+    HttpClientModule,
     ReactiveFormsModule,
     MatToolbarModule,
     MatSidenavModule,
